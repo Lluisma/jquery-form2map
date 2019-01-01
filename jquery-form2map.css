@@ -1,0 +1,46 @@
+    
+    #form2map_results {
+        position:relative;
+        top:0;
+        margin:10px;
+    }
+
+    #form2map_results ul {
+        padding-left: 0;
+        margin-top: 0;
+        margin-bottom: 20px;
+
+    }
+
+    #form2map_results li {
+        position: relative;
+        display: block;
+        padding: 10px 15px;
+        margin-bottom: -1px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+    }
+
+    .form2map_address {
+        color: #4b8dac;
+        cursor: pointer;
+    }
+
+    #form2map_lat,
+    #form2map_lon  {
+        border:0;
+        background-color: #eee;
+        color:#ccc;
+        width:50%;
+    }
+
+    #form2map_close  {
+        position:absolute;
+        top:7px;
+        right:7px;
+        border:1px solid #9d5a6b;
+        padding:2px 1em;
+        background-color: #fff;;
+        color:#9d5a6b;
+        cursor:pointer;        
+    }
