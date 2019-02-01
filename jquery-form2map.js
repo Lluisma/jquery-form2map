@@ -2,8 +2,8 @@
  * jQuery Form2Map v1.0.0
  * https://github.com/lluisma/jquery-form2map
  *
- * Copyright (c) 2019 Lluis Marti i Garro
- * Released under the MIT license
+ * @author Lluís Martí i Garro: http://github.com/Lluisma
+ * @license MIT
  *
  * Date: 2019-01-01
  */
